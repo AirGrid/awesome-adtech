@@ -17,6 +17,9 @@
 *Description goes here.*
 
 * [AdExchanger](https://adexchanger.com/)
+* [ExchangeWire](https://www.exchangewire.com/)
+* [The Drum](https://www.thedrum.com/) News for the marketing and media industries, with stories, job search resources, events listing, and features.
+* [Digiday](https://digiday.com/) Digiday creates content, services and community that foster change in media and marketing.
 
 ## Email Newsletters
 
