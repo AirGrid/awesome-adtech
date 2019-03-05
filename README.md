@@ -35,17 +35,20 @@
 *Description goes here.* 
 
 * [Reddit /r/adops](https://www.reddit.com/r/adops/) - A great subreddit, with some shrewd discussion and > 13k subscribers.
-* [Reddit /r/adtech](https://www.reddit.com/r/adtech/) - 
+* [Reddit /r/adtech](https://www.reddit.com/r/adtech/) - A small subreddit, with ~1k readers.
+* [Programmatic Heads](http://programmatic-heads.com/) - An open slack group, with plenty of discussion around DSPs, DMPs, etc.
 
 ## Research
 
 *Description goes here.* 
 
-[eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
+* [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 
 ## Podcasts
 
 *Description goes here.* 
+
+* [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
 
 ## Events
 
