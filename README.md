@@ -52,6 +52,8 @@
 
 ## Events
 
-*Description goes here.* 
+*As any hardened industry veteran would know, AdTech events are mainly about copious consumption of alcohol. The list below is not an exception to that rule.* 
 
-* [ad:tech](http://ad-tech.com/) - 
+* [ad:tech](http://ad-tech.com/) - A trade show happening across the globe each year.
+* [Mobile World Congress](https://www.mwcbarcelona.com/) - Mobile focused event in Barcelona.
+* [Advertising Week](http://www.advertisingweek.com/) - Global event, with strong lienup of speakers and great parties.
