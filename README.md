@@ -6,11 +6,12 @@
 - [Awesome AdTech](#awesome-adtech)
     - [Industry Publications](#industry-publications)
     - [Email Newsletters](#email-newsletters)
-    - [Tools](#tools)
+    - [Podcasts](#podcasts)
     - [Communities](#communities)
     - [Research](#research)
     - [Events](#events)
-    - [Podcasts](#podcasts)
+    - [Tools](#tools) *Coming Soon*
+    - [Platforms](#platforms) *Coming Soon*
     - [.](#.)
 
 ## Industry Publications
@@ -26,9 +27,13 @@
 
 *Description goes here.* 
 
-## Tools
+* [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
+
+## Podcasts
 
 *Description goes here.* 
+
+* [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
 
 ## Communities
 
@@ -43,12 +48,6 @@
 *Description goes here.* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
-
-## Podcasts
-
-*Description goes here.* 
-
-* [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
 
 ## Events
 
