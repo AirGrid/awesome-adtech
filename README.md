@@ -1,6 +1,6 @@
 # Awesome AdTech [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎An awesome list of awesome adtech things curated by the community, powered by [AirGrid](https://www.airgrid.io).
+😎An awesome list of awesome adtech things curated by the community, powered by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list).
 
 ## Contents
 - [Awesome AdTech](#awesome-adtech)
