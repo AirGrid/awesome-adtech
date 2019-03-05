@@ -24,17 +24,31 @@
 
 ## Email Newsletters
 
+*Description goes here.* 
+
 ## Tools
 
+*Description goes here.* 
+
 ## Communities
-- adops reddit
-- adops slack
+
+*Description goes here.* 
+
+* [Reddit /r/adops](https://www.reddit.com/r/adops/) - A great subreddit, with some shrewd discussion and > 13k subscribers.
+* [Reddit /r/adtech](https://www.reddit.com/r/adtech/) - 
 
 ## Research
 
+*Description goes here.* 
+
+[eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
+
 ## Podcasts
 
-## Events
-Description goes here.
+*Description goes here.* 
 
-- [ad:tech](http://ad-tech.com/) Description goes here
+## Events
+
+*Description goes here.* 
+
+* [ad:tech](http://ad-tech.com/) - 
