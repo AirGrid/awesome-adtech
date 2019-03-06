@@ -10,6 +10,7 @@
     - [Communities](#communities)
     - [Research](#research)
     - [Events](#events)
+    - [Open Source](#open-source)
     - [Tools](#tools) *Coming Soon*
     - [Platforms](#platforms) *Coming Soon*
     - [.](#.)
@@ -56,3 +57,11 @@
 * [ad:tech](http://ad-tech.com/) - A trade show happening across the globe each year.
 * [Mobile World Congress](https://www.mwcbarcelona.com/) - Mobile focused event in Barcelona.
 * [Advertising Week](http://www.advertisingweek.com/) - Global event, with strong lienup of speakers and great parties.
+
+## Open Source
+
+*AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
+
+* [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
+* [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
+* [Index Wrapper](https://github.com/indexexchange/header-tag-wrapper) - Header bidder wrapper [released](https://www.indexexchange.com/debuting-the-ix-wrapper-ecosystem/) for verification by the community rather than usage.
