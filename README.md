@@ -65,3 +65,5 @@
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
 * [Index Wrapper](https://github.com/indexexchange/header-tag-wrapper) - Header bidder wrapper [released](https://www.indexexchange.com/debuting-the-ix-wrapper-ecosystem/) for verification by the community rather than usage.
+* [RTB Kit](https://github.com/rtbkit/rtbkit) - RTBkit is an open-source software package that allows you to create and deploy a Real Time Bidder for display advertising.
+* [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - The world's most popular free, open source ad serving system.
