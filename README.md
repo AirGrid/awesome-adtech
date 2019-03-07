@@ -35,6 +35,7 @@
 *Description goes here.* 
 
 * [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
+* [AdExchanger Podcast](https://adexchanger.com/podcast/) - Explore the evolution of data-driven digital media and marketing.
 
 ## Communities
 
@@ -43,6 +44,14 @@
 * [Reddit /r/adops](https://www.reddit.com/r/adops/) - A great subreddit, with some shrewd discussion and > 13k subscribers.
 * [Reddit /r/adtech](https://www.reddit.com/r/adtech/) - A small subreddit, with ~1k readers.
 * [Programmatic Heads](http://programmatic-heads.com/) - An open slack group, with plenty of discussion around DSPs, DMPs, etc.
+
+### Twitter
+
+* [AdExchanger Twitter Directory](https://adexchanger.com/twitter-directory/) - A directory of adtech related twitter accounts.
+
+### Quora
+
+* [Display Advertising](https://www.quora.com/topic/Display-Advertising) - Over 60k followers.
 
 ## Research
 
