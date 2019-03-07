@@ -4,7 +4,7 @@
 
 Whilst search engines are great, sometimes you just need a good old fashioned curated list of quality stuff to help you find what you need!
 
-Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request. Guidelines are available.
+Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request, guidelines are available [here](contributing.md).
 
 ## Contents
 - [Awesome AdTech](#awesome-adtech)
