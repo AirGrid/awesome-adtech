@@ -1,6 +1,10 @@
 # Awesome AdTech [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎An awesome list of awesome adtech things curated by the community, powered by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list).
+😎 An awesome list of awesome adtech things curated by the community, powered by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list) and inspired by the many [awesome-x](https://github.com/sindresorhus/awesome) lists out there.
+
+Whilst search engines are great, sometimes you just need a good old fashioned curated list of quality stuff to help you find what you need!
+
+Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request. Guidelines are available.
 
 ## Contents
 - [Awesome AdTech](#awesome-adtech)
@@ -13,7 +17,6 @@
     - [Open Source](#open-source)
     - [Tools](#tools) *Coming Soon*
     - [Platforms](#platforms) *Coming Soon*
-    - [.](#.)
 
 ## Industry Publications
 
