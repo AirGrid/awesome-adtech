@@ -12,7 +12,9 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
     - [Email Newsletters](#email-newsletters)
     - [Podcasts](#podcasts)
     - [Communities](#communities)
+        - [Twitter](#twitter)
     - [Research](#research)
+    - [Learning Resources](#learning-resources)
     - [Events](#events)
     - [Open Source](#open-source)
     - [Tools](#tools) *Coming Soon*
@@ -61,6 +63,12 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 *Description goes here.* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
+
+## Learning Resources
+
+*Description goes here.* 
+
+* [AppNexus Industry Reference](https://wiki.appnexus.com/display/industry/Welcome) - This guide is for anyone who wants to learn more about online advertising and ad trading.
 
 ## Events
 
