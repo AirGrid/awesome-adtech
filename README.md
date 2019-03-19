@@ -68,7 +68,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 *Description goes here.* 
 
-* [AppNexus Industry Reference](https://wiki.appnexus.com/display/industry/Welcome) - This guide is for anyone who wants to learn more about online advertising and ad trading.
+* [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
 
 ## Events
 
