@@ -17,8 +17,9 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
     - [Learning Resources](#learning-resources)
     - [Events](#events)
     - [Open Source](#open-source)
+        -[Technology](#technology)
+        -[Data](#data)
     - [Tools](#tools) *Coming Soon*
-    - [Platforms](#platforms) *Coming Soon*
 
 ## Industry Publications
 
@@ -82,8 +83,15 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 *AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
 
+#### Technology
+
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
 * [Index Wrapper](https://github.com/indexexchange/header-tag-wrapper) - Header bidder wrapper [released](https://www.indexexchange.com/debuting-the-ix-wrapper-ecosystem/) for verification by the community rather than usage.
 * [RTB Kit](https://github.com/rtbkit/rtbkit) - RTBkit is an open-source software package that allows you to create and deploy a Real Time Bidder for display advertising.
 * [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - The world's most popular free, open source ad serving system.
+
+#### Data
+
+* [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - 
+* [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - 
