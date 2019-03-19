@@ -7,19 +7,21 @@ Whilst search engines are great, sometimes you just need a good old fashioned cu
 Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request, guidelines are available [here](contributing.md).
 
 ## Contents
-- [Awesome AdTech](#awesome-adtech)
-    - [Industry Publications](#industry-publications)
-    - [Email Newsletters](#email-newsletters)
-    - [Podcasts](#podcasts)
-    - [Communities](#communities)
-        - [Twitter](#twitter)
-    - [Research](#research)
-    - [Learning Resources](#learning-resources)
-    - [Events](#events)
-    - [Open Source](#open-source)
-        -[Technology](#technology)
-        -[Data](#data)
-    - [Tools](#tools) *Coming Soon*
+- [Industry Publications](#industry-publications)
+- [Email Newsletters](#email-newsletters)
+- [Podcasts](#podcasts)
+- [Communities](#communities)
+    - [Reddit](#reddit)
+    - [Slack](#slack)
+    - [Twitter](#twitter)
+    - [Quora](#quora)
+- [Research](#research)
+- [Learning Resources](#learning-resources)
+- [Events](#events)
+- [Open Source](#open-source)
+    -[Technology](#technology)
+    -[Data](#data)
+- [Tools](#tools) *Coming Soon*
 
 ## Industry Publications
 
@@ -47,8 +49,13 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 *Description goes here.* 
 
+#### Reddit
+
 * [Reddit /r/adops](https://www.reddit.com/r/adops/) - A great subreddit, with some shrewd discussion and > 13k subscribers.
 * [Reddit /r/adtech](https://www.reddit.com/r/adtech/) - A small subreddit, with ~1k readers.
+
+#### Slack
+
 * [Programmatic Heads](http://programmatic-heads.com/) - An open slack group, with plenty of discussion around DSPs, DMPs, etc.
 
 #### Twitter
