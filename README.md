@@ -19,8 +19,8 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 - [Learning Resources](#learning-resources)
 - [Events](#events)
 - [Open Source](#open-source)
-    -[Technology](#technology)
-    -[Data](#data)
+    - [Technology](#technology)
+    - [Data](#data)
 - [Tools](#tools) *Coming Soon*
 
 ## Industry Publications
