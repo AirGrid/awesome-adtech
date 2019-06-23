@@ -104,3 +104,4 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 * [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - 
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - 
 * [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/)
+* [Third Party Scripts](https://github.com/patrickhulce/third-party-web)
