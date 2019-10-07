@@ -71,6 +71,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 *Description goes here.* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
+* [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
 
 ## Learning Resources
 
