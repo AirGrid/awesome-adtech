@@ -23,31 +23,31 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
     - [Data](#data)
 - [Tools](#tools) *Coming Soon*
 
-## Industry Publications
+## Industry Publications 
 
-*Description goes here.*
+*Read about all things adtech!*
 
 * [AdExchanger](https://adexchanger.com/) - AdExchanger provides news, analysis and events dedicated to the data-driven marketing space.
 * [ExchangeWire](https://www.exchangewire.com/) - Tracking Ad Trading and the Exchange Marketplace.
 * [The Drum](https://www.thedrum.com/) - News for the marketing and media industries, with stories, job search resources, events listing.
 * [Digiday](https://digiday.com/) - Digiday creates content, services and community that foster change in media and marketing.
 
-## Email Newsletters
+## Email Newsletters 
 
-*Description goes here.* 
+*Stay up to date with ad-tech news sent directly to your inbox!* 
 
 * [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
 
-## Podcasts
+## Podcasts 
 
-*Description goes here.* 
+*So you're telling me you haven't tried listening, and dreaming about adtech as you sleep?* 
 
 * [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
 * [AdExchanger Podcast](https://adexchanger.com/podcast/) - Explore the evolution of data-driven digital media and marketing.
 
-## Communities
+## Communities 
 
-*Description goes here.* 
+*Geek out and learn something new, with open discussions between those deeply into ad-tech!* 
 
 #### Reddit
 
@@ -68,14 +68,14 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Research
 
-*Description goes here.* 
+*Stay ahead of the game, by reading from the bleeding edge!*
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
 
 ## Learning Resources
 
-*Description goes here.* 
+*Level up your expertise, by learning from structured resources!* 
 
 * [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
 
