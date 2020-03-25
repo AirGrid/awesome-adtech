@@ -103,6 +103,6 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 #### Data 📊
 
 * [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - Train ML models that learn click-through rate (CTR) prediction models at scale.
-* [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual off-policy models that learn from logged user-interaction data, to build better interactive systems such as search engines and recommendation systems.
+* [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual models that learn from logged user-interaction data, to build better interactive systems such as search engines and recommendation systems.
 * [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/) - Predict CTR on display ads, from a dataset < 50 MB.
 * [Third Party Scripts](https://github.com/patrickhulce/third-party-web) - Data describing which third party entities are most responsible for excessive JavaScript execution on the web.
