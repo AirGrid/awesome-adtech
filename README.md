@@ -1,7 +1,7 @@
 # Awesome AdTech [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
-A curated list describing the technology behind advertising!
+__A curated list describing the technology behind advertising!__
 
 Whilst advertising is a broad field, this awesome list describes specifically the technology behind it. In this list, expect to learn about the software, datasets, and other technology that brands and agencies use to perform their digital advertising activities!
 
