@@ -102,7 +102,8 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 #### Data
 
-* [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - 
+* [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - [Used by Google](https://cloud.google.com/blog/products/gcp/using-google-cloud-machine-learning-to-predict-clicks-at-scale) to train ML models that learn CTR prediction models at scale.
+Train models that learn click through rate (CTR) prediction models on this 
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - 
 * [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/)
 * [Third Party Scripts](https://github.com/patrickhulce/third-party-web)
