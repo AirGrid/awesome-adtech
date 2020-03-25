@@ -47,7 +47,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Communities 
 
-*Geek out and learn something new, with open discussions between those deep in the ad-tech industry!* 
+*Geek out and learn something new, with open discussions between those deeply into ad-tech!* 
 
 #### Reddit
 
@@ -68,7 +68,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Research
 
-*Stay ahead of the game, by reading about the bleeding edge!*
+*Stay ahead of the game, by reading from the bleeding edge of ad-tech research!*
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
