@@ -23,7 +23,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
     - [Data](#data)
 - [Tools](#tools) *Coming Soon*
 
-## Industry Publications 📖
+## Industry Publications 
 
 *Read about all things adtech!*
 
@@ -32,20 +32,20 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 * [The Drum](https://www.thedrum.com/) - News for the marketing and media industries, with stories, job search resources, events listing.
 * [Digiday](https://digiday.com/) - Digiday creates content, services and community that foster change in media and marketing.
 
-## Email Newsletters ✉️
+## Email Newsletters 
 
-*Stay up to date with ad-tech news sent directly to your (hopefully not junk) inbox!* 
+*Stay up to date with ad-tech news sent directly to your inbox!* 
 
 * [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
 
-## Podcasts 🎙️
+## Podcasts 
 
-*So you're telling me you haven't tried listening, and dreaming about adtech while you sleep? * 
+*So you're telling me you haven't tried listening, and dreaming about adtech as you sleep?* 
 
 * [ExchangeWire Podcast](https://www.exchangewire.com/ew-podcast/) - ExchangeWire podcast, with their charismatic CEO [Ciaran O'Kane](https://www.linkedin.com/in/cpokane/).
 * [AdExchanger Podcast](https://adexchanger.com/podcast/) - Explore the evolution of data-driven digital media and marketing.
 
-## Communities 👪
+## Communities 
 
 *Description goes here.* 
 
