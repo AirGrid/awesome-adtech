@@ -91,7 +91,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 *AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
 
-#### Technology
+#### Technology 💻
 
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
@@ -100,7 +100,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 * [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - The world's most popular free, open source ad serving system.
 * [BidMachine Ad Exchange](https://github.com/bidmachine/BidMachine-Ad-Exchange) - Open source mobile ad exchange.
 
-#### Data
+#### Data 📊
 
 * [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - Train ML models that learn CTR prediction models at scale. [Showcased by by Google](https://cloud.google.com/blog/products/gcp/using-google-cloud-machine-learning-to-predict-clicks-at-scale).
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - 
