@@ -38,7 +38,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 * [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
 
-## Podcasts ✉️
+## Podcasts 🎙️
 
 *So you're telling me you haven't tried listening, and dreaming about adtech as you sleep?* 
 
