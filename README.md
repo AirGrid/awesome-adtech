@@ -34,7 +34,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Email Newsletters
 
-*Description goes here.* 
+*Stay up to date, with ad-tech news sent directly to your inbox! 📧* 
 
 * [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
 
