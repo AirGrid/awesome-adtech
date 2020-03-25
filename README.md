@@ -91,7 +91,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 *AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
 
-#### Technology
+#### Technology 💻
 
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
@@ -100,9 +100,9 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 * [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - The world's most popular free, open source ad serving system.
 * [BidMachine Ad Exchange](https://github.com/bidmachine/BidMachine-Ad-Exchange) - Open source mobile ad exchange.
 
-#### Data
+#### Data 📊
 
-* [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - 
-* [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - 
-* [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/)
-* [Third Party Scripts](https://github.com/patrickhulce/third-party-web)
+* [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - Train ML models that learn click-through rate (CTR) prediction models at scale.
+* [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual models that learn from logged user-interaction data, to build better interactive systems such as search engines and recommendation systems.
+* [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/) - Predict CTR on display ads, from a dataset < 50 MB.
+* [Third Party Scripts](https://github.com/patrickhulce/third-party-web) - Data describing which third party entities are most responsible for excessive JavaScript execution on the web.
