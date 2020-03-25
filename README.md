@@ -3,7 +3,7 @@
 
 A curated list describing the technology behind advertising!
 
-Whilst advertising is a broad field, this awesome list delves deep into describing the technology behind it. In this list, expect to learn about the software, datasets, and other technology that brands and agencies use to perform their digital advertising activities!
+Whilst advertising is a broad field, this awesome list describes specifically the technology behind it. In this list, expect to learn about the software, datasets, and other technology that brands and agencies use to perform their digital advertising activities!
 
 Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list), but contributions from the community to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request, guidelines are available [here](contributing.md).
 
@@ -26,7 +26,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 ## Industry Publications
 
-📖 *Read about all things adtech ! 
+*Read about all things adtech!* 📖 
 
 * [AdExchanger](https://adexchanger.com/) - AdExchanger provides news, analysis and events dedicated to the data-driven marketing space.
 * [ExchangeWire](https://www.exchangewire.com/) - Tracking Ad Trading and the Exchange Marketplace.
@@ -74,7 +74,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
 
-## Learning Resources 
+## Learning Resources
 
 🤓 *Level up your expertise, by learning from structured resources!* 
 
