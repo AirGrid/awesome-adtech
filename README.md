@@ -47,7 +47,7 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Communities 
 
-*Description goes here.* 
+*Engage in (or lurk!) with discussions between seasoned ad-tech veterans like yourself! 😉* 
 
 #### Reddit
 
@@ -68,14 +68,14 @@ Contributions to this list are welcome! Just edit the README.md (this document) 
 
 ## Research
 
-*Description goes here.* 
+*Read about the bleeding edge of ad-tech research!* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
 
 ## Learning Resources
 
-*Description goes here.* 
+*Level up your expertise, by learning from structured resources!* 
 
 * [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
 
