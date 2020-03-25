@@ -1,10 +1,11 @@
 # Awesome AdTech [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 An awesome list of awesome adtech things curated by the community, powered by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list) and inspired by the many [awesome-x](https://github.com/sindresorhus/awesome) lists out there.
 
-Whilst search engines are great, sometimes you just need a good old fashioned curated list of quality stuff to help you find what you need!
+A curated list describing the technology behind advertising!
 
-Contributions to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request, guidelines are available [here](contributing.md).
+Whilst advertising is a broad field, this awesome list delves deep into describing the technology behind it. In this list, expect to learn about the software, datasets, and other technology that brands and agencies use to perform their digital advertising activities!
+
+Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/?utm_source=github&utm_campaign=awesome-adtech-list), but contributions from the community to this list are welcome! Just edit the README.md (this document) and send the changes as a pull request, guidelines are available [here](contributing.md).
 
 ## Contents
 - [Industry Publications](#industry-publications)
