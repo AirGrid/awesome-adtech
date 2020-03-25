@@ -22,11 +22,10 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 - [Open Source](#open-source)
   - [Technology](#technology)
   - [Data](#data)
-- [Tools](#tools) *Coming Soon*
 
 ## Industry Publications
 
-*Read about all things adtech!* 📖 
+📖 *Read about all things adtech!* 
 
 * [AdExchanger](https://adexchanger.com/) - AdExchanger provides news, analysis and events dedicated to the data-driven marketing space.
 * [ExchangeWire](https://www.exchangewire.com/) - Tracking Ad Trading and the Exchange Marketplace.
@@ -69,7 +68,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 ## Research 
 
-🔬 *Stay ahead of the game, by reading from the bleeding edge!*
+🔬 *Stay ahead of the game, by reading from the bleeding edge!* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
