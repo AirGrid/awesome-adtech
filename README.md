@@ -38,6 +38,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 ✉️ *Stay up to date with ad-tech news sent directly to your inbox!*
 
 * [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - Stay on top of important ad tech news in fewer than 15 minutes with one email every Sunday.
+* [The Yieldbird Digest] (https://yieldbird.com/newsletter/) - AdTech news, out-of-the-box ideas and innovative solutions for Publishers sent out weekly on Fridays.
 
 ## Podcasts
 
