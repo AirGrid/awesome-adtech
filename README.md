@@ -22,6 +22,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 - [Open Source](#open-source)
   - [Technology](#technology)
   - [Data](#data)
+- [Privacy](#privacy)
 
 ## Industry Publications
 
@@ -71,7 +72,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 🔬 *Stay ahead of the game, by reading from the bleeding edge!* 
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
-* [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currenlty hosting just a single research paper on augmentation of survey data.
+* [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currently hosting just a single research paper on augmentation of survey data.
 
 ## Learning Resources
 
@@ -109,3 +110,10 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual models that learn from logged user-interaction data, to build interactive systems such as search engines and recommendation systems.
 * [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/) - Predict CTR on display ads, from a dataset < 50 MB.
 * [Third Party Scripts](https://github.com/patrickhulce/third-party-web) - Data describing which third party entities are most responsible for excessive JavaScript execution on the web.
+
+## Privacy
+
+🛡️ *AdTech is a fairly intrusive industry, but the current trend has been towards more privacy focused products and methods.*
+
+* [Google Privacy Sandbox](https://www.chromium.org/Home/chromium-privacy/privacy-sandbox) - The Privacy Sandbox project’s mission is to “Create a thriving web ecosystem that is respectful of users and private by default.”
+* [Google FLOC](https://github.com/WICG/floc) - The most advanced of the Sandbox proposals, aims to replace cross site behavioural audiences.
