@@ -91,10 +91,9 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 ## Open Source
 
-🔓 *AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
+💻 *AdTech is not known for producing many open technologies, but there are a few gems to uncover!*
 
 #### Technology 
-💻
 
 * [EdgeKit](https://edgekit.org/) - Open source, cookie-less and privacy focused audience creation & monetisation.
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
@@ -105,7 +104,6 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [BidMachine Ad Exchange](https://github.com/bidmachine/BidMachine-Ad-Exchange) - Open source mobile ad exchange.
 
 #### Data 
-📊
 
 * [Terabyte Click Logs](http://labs.criteo.com/2013/12/download-terabyte-click-logs/) - Train ML models that learn click-through rate (CTR) prediction models at scale.
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual models that learn from logged user-interaction data, to build interactive systems such as search engines and recommendation systems.
