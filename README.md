@@ -73,6 +73,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currently hosting just a single research paper on augmentation of survey data.
+* [LUMA Content](https://lumapartners.com/luma-content/) - The go to resource for market M&A activity news, covers both AdTech & MarTech.
 
 ## Learning Resources
 
