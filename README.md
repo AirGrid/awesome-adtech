@@ -22,6 +22,9 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 - [Open Source](#open-source)
   - [Technology](#technology)
   - [Data](#data)
+- [Competitive Intelligence](#competitive-intelligence)
+  - [Ad Creative Search](#ad-creative-search)
+  - [Web & App Analytics](#web--app-analytics)
 - [Privacy](#privacy)
 
 ## Industry Publications
@@ -109,6 +112,23 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [Counterfactual Learning Dataset](http://research.criteo.com/dataset-release-evaluation-counterfactual-algorithms/) - Train and evaluate counterfactual models that learn from logged user-interaction data, to build interactive systems such as search engines and recommendation systems.
 * [Kaggle Click Prediction](http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/) - Predict CTR on display ads, from a dataset < 50 MB.
 * [Third Party Scripts](https://github.com/patrickhulce/third-party-web) - Data describing which third party entities are most responsible for excessive JavaScript execution on the web.
+
+## Competitive Intelligence
+
+🔍 *Tools to research competitor advertising creatives, ad spend, and overall market share. Useful for marketers researching what their competitors are running, and for ad ops teams benchmarking creative performance across channels.*
+
+#### Ad Creative Search
+
+* [AdMapix](https://www.admapix.com) - AI-powered ad intelligence platform that indexes ad creatives across Meta, Google, TikTok and other channels in 200+ countries; includes deep research agents for competitor analysis.
+* [Meta Ad Library](https://www.facebook.com/ads/library/) - Free official archive of every active and inactive ad on Meta platforms.
+* [Google Ads Transparency Center](https://adstransparency.google.com/) - Free official archive of ads served via Google.
+* [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/) - Free official browser of top-performing TikTok ads by region and industry.
+
+#### Web & App Analytics
+
+* [SimilarWeb](https://www.similarweb.com/) - Web traffic, engagement, and digital marketing intelligence.
+* [Sensor Tower](https://sensortower.com/) - Mobile app market intelligence (downloads, revenue, ad creatives — Pathmatics).
+* [data.ai](https://www.data.ai/) - Mobile app market data (formerly App Annie).
 
 ## Privacy
 
