@@ -95,6 +95,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 #### Technology 
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 * [EdgeKit](https://edgekit.org/) - Open source, cookie-less and privacy focused audience creation & monetisation.
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
