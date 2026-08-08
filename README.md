@@ -102,6 +102,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [RTB Kit](https://github.com/rtbkit/rtbkit) - RTBkit is an open-source software package that allows you to create and deploy a Real Time Bidder for display advertising.
 * [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - The world's most popular free, open source ad serving system.
 * [BidMachine Ad Exchange](https://github.com/bidmachine/BidMachine-Ad-Exchange) - Open source mobile ad exchange.
+* [Apex Ad SDK](https://github.com/Madroid2/apex-ad-sdk-android) - Open Source mobile Ad SDK
 
 #### Data 
 
