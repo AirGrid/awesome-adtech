@@ -80,6 +80,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 🤓 *Level up your expertise, by learning from structured resources!* 
 
 * [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
+* [The Complete Guide to DV360 (in Russian)](https://aksanov.digital/books/dv360) - Free 175-page book on Google Display & Video 360: auction mechanics, bidding, targeting, deals, brand safety and measurement. PDF, no email required.
 
 ## Events
 
