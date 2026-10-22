@@ -79,6 +79,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 
 🤓 *Level up your expertise, by learning from structured resources!* 
 
+* [Adsun Bot Message Ads — Node.js](https://github.com/Adsuner/adsun-bot-messages-node) - Independent integration example for Telegram bot advertising, covering ad requests, no-fill responses, and protected messages.
 * [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
 
 ## Events
