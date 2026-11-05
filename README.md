@@ -96,6 +96,7 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 #### Technology 
 
 * [EdgeKit](https://edgekit.org/) - Open source, cookie-less and privacy focused audience creation & monetisation.
+* [Telegram Sponsorship CPM Calculator](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator) - MIT-licensed browser tool for comparing Telegram channel sponsorship quotes by median views and implied CPM; [try it online](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/).
 * [Nameles](https://github.com/Nameles-Org/Nameles) - Entropy based invalid traffic detection and pre-bid filtering.
 * [Prebid.js](https://github.com/prebid/Prebid.js/) - Popular header bidder wrapper.
 * [Index Wrapper](https://github.com/indexexchange/header-tag-wrapper) - Header bidder wrapper [released](https://www.indexexchange.com/debuting-the-ix-wrapper-ecosystem/) for verification by the community rather than usage.
