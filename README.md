@@ -74,12 +74,14 @@ Awesome AdTech was created and is maintaned by [AirGrid](https://www.airgrid.io/
 * [eMarketer](https://www.emarketer.com/) - eMarketer is the first place to look for data and research on digital for business professionals who need to be prepared for the work ahead.
 * [OpenSource Mindshare](https://github.com/OpenSourceMindshare/Research) - Currently hosting just a single research paper on augmentation of survey data.
 * [LUMA Content](https://lumapartners.com/luma-content/) - The go to resource for market M&A activity news, covers both AdTech & MarTech.
+* [State of ads.txt 2026](https://adopsbox.com/guides/ads-txt-report-2026/) - Free data report on 1,600 ads.txt and app-ads.txt files: reseller share, most-listed ad systems and common mistakes.
 
 ## Learning Resources
 
 🤓 *Level up your expertise, by learning from structured resources!* 
 
 * [Jounce Media Black Book](https://jouncemedia.com/little-black-book) - A great set of free adtech primers, but does require sharing your email.
+* [AdOpsBox Guides](https://adopsbox.com/guides/) - Free plain-English guides to ads.txt, sellers.json, VAST errors, Prebid and OpenRTB, each with a free checker.
 
 ## Events
 
